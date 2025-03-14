@@ -1,1 +1,1 @@
-# Voting-system-project-
+# Voting-system
